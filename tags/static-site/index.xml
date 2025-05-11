@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Static Site on SuperIBM Website</title>
+    <link>http://localhost:1313/tags/static-site/</link>
+    <description>Recent content in Static Site on SuperIBM Website</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 10 May 2025 10:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/static-site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My New Post</title>
+      <link>http://localhost:1313/my-writings/thing/</link>
+      <pubDate>Sat, 10 May 2025 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/my-writings/thing/</guid>
+      <description>&lt;h1 id=&#34;my-new-post&#34;&gt;My New Post&lt;/h1&gt;&#xA;&lt;p&gt;This is the content of my new post. You can add Markdown or HTML here.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
