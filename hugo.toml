@@ -1,4 +1,5 @@
 baseURL = "https://2cd3a371.thenerdcorner.pages.dev/"
+languageCode = "en-us"
 theme = "risotto"
 title = "SuperIBM Website"
 author = "IBM"
