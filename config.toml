@@ -5,6 +5,13 @@ theme = "risotto"
 enableGitInfo = true
 
 [params]
+customCSS = [
+  "/css/palettes/base16-dark.css",
+  "/css/risotto.css",
+  "/css/custom.css"
+]
+
+[params]
   author = "Your Name"
   description = "A simple Hugo site with Risotto theme"
 
