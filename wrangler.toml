@@ -1,0 +1,6 @@
+name = "my-website-assets"
+compatibility_date = "2025-05-11"
+
+[assets]
+directory = "./public"
+
