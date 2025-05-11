@@ -1,0 +1,20 @@
+baseURL = "https://yourdomain.netlify.app/"
+languageCode = "en-us"
+title = "My Hugo Site"
+theme = "risotto"
+enableGitInfo = true
+
+[params]
+  author = "Your Name"
+  description = "A simple Hugo site with Risotto theme"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
