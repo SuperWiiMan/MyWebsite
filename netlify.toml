@@ -1,7 +1,2 @@
 [build]
   command = "npm install hugo && hugo"
-
-  [build]
-  command = "hugo --minify --gc --theme risotto"
-  publish = "public"
-  environment = { HUGO_VERSION = "0.118.2" }
