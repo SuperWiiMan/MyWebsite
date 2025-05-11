@@ -1,2 +1,6 @@
 [build]
-  command = "npm install hugo && hugo"
+  command = "hugo --minify --gc --theme risotto"
+  publish = "public"
+
+[context.production.environment]
+  HUGO_VERSION = "0.118.2"  # Specify the Hugo version you want to use
