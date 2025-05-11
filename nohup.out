@@ -1,0 +1,607 @@
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ CREATE Untitled.md
+sending incremental file list
+
+sent 150 bytes  received 12 bytes  324.00 bytes/sec
+total size is 960  speedup is 5.93
+Synced at Sat May 10 10:01:00 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MOVED_FROM Untitled.md
+sending incremental file list
+
+sent 161 bytes  received 12 bytes  346.00 bytes/sec
+total size is 960  speedup is 5.55
+Synced at Sat May 10 10:01:10 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY The time is now.md
+sending incremental file list
+The time is now.md
+
+sent 217 bytes  received 35 bytes  504.00 bytes/sec
+total size is 968  speedup is 3.84
+Synced at Sat May 10 10:01:12 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY The time is now.md
+sending incremental file list
+
+sent 162 bytes  received 12 bytes  348.00 bytes/sec
+total size is 974  speedup is 5.60
+Synced at Sat May 10 10:01:14 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY The time is now.md
+sending incremental file list
+The time is now.md
+
+sent 224 bytes  received 35 bytes  518.00 bytes/sec
+total size is 975  speedup is 3.76
+Synced at Sat May 10 10:01:16 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MOVED_FROM The time is now.md
+sending incremental file list
+deleting The time is now.md
+./
+The-time-is-now.md
+
+sent 227 bytes  received 60 bytes  574.00 bytes/sec
+total size is 975  speedup is 3.40
+Synced at Sat May 10 10:01:42 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY The-time-is-now.md
+sending incremental file list
+The-time-is-now.md
+
+sent 229 bytes  received 35 bytes  528.00 bytes/sec
+total size is 980  speedup is 3.71
+Synced at Sat May 10 10:01:57 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MOVED_FROM The-time-is-now.md
+sending incremental file list
+./
+
+sent 133 bytes  received 19 bytes  304.00 bytes/sec
+total size is 960  speedup is 6.32
+Synced at Sat May 10 10:02:22 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ CREATE Untitled.md
+sending incremental file list
+
+sent 152 bytes  received 12 bytes  328.00 bytes/sec
+total size is 960  speedup is 5.85
+Synced at Sat May 10 10:04:20 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MOVED_FROM Untitled.md
+sending incremental file list
+
+sent 155 bytes  received 12 bytes  334.00 bytes/sec
+total size is 960  speedup is 5.75
+Synced at Sat May 10 10:04:35 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MOVED_FROM Template.md
+sending incremental file list
+deleting Template.md
+Template test.md
+
+sent 204 bytes  received 50 bytes  508.00 bytes/sec
+total size is 960  speedup is 3.78
+Synced at Sat May 10 10:04:38 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY Template test.md
+sending incremental file list
+Template test.md
+
+sent 248 bytes  received 35 bytes  566.00 bytes/sec
+total size is 1,000  speedup is 3.53
+Synced at Sat May 10 10:08:48 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY Template test.md
+sending incremental file list
+Template test.md
+
+sent 263 bytes  received 35 bytes  596.00 bytes/sec
+total size is 1,015  speedup is 3.41
+Synced at Sat May 10 10:08:59 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY Template test.md
+sending incremental file list
+Template test.md
+
+sent 271 bytes  received 35 bytes  612.00 bytes/sec
+total size is 1,023  speedup is 3.34
+Synced at Sat May 10 10:09:10 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY Template test.md
+sending incremental file list
+Template test.md
+
+sent 270 bytes  received 35 bytes  610.00 bytes/sec
+total size is 1,023  speedup is 3.35
+Synced at Sat May 10 10:09:11 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY Template test.md
+sending incremental file list
+
+sent 161 bytes  received 12 bytes  346.00 bytes/sec
+total size is 1,023  speedup is 5.91
+Synced at Sat May 10 10:09:11 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY Template test.md
+sending incremental file list
+
+sent 161 bytes  received 12 bytes  346.00 bytes/sec
+total size is 1,023  speedup is 5.91
+Synced at Sat May 10 10:09:11 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY Template test.md
+sending incremental file list
+./
+
+sent 163 bytes  received 19 bytes  364.00 bytes/sec
+total size is 1,036  speedup is 5.69
+Synced at Sat May 10 10:09:16 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY Template test.md
+sending incremental file list
+Template test.md
+
+sent 296 bytes  received 35 bytes  662.00 bytes/sec
+total size is 1,048  speedup is 3.17
+Synced at Sat May 10 10:09:18 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY Template test.md
+sending incremental file list
+./
+
+sent 168 bytes  received 19 bytes  374.00 bytes/sec
+total size is 1,059  speedup is 5.66
+Synced at Sat May 10 10:09:20 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY Template test.md
+sending incremental file list
+Template test.md
+
+sent 315 bytes  received 35 bytes  700.00 bytes/sec
+total size is 1,067  speedup is 3.05
+Synced at Sat May 10 10:09:22 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY Template test.md
+sending incremental file list
+Template test.md
+rsync: [receiver] failed to set permissions on "/home/superibm/Documents/*Website/content/my-writings/.Template test.md.iNlxOm": No such file or directory (2)
+rsync: [receiver] rename "/home/superibm/Documents/*Website/content/my-writings/.Template test.md.iNlxOm" -> "Template test.md": No such file or directory (2)
+
+sent 323 bytes  received 35 bytes  716.00 bytes/sec
+total size is 1,075  speedup is 3.00
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+Synced at Sat May 10 10:09:24 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY Template test.md
+sending incremental file list
+Template test.md
+
+sent 330 bytes  received 35 bytes  730.00 bytes/sec
+total size is 1,083  speedup is 2.97
+Synced at Sat May 10 10:09:27 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY Template test.md
+sending incremental file list
+
+sent 161 bytes  received 12 bytes  346.00 bytes/sec
+total size is 1,092  speedup is 6.31
+Synced at Sat May 10 10:09:29 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY Template test.md
+sending incremental file list
+Template test.md
+
+sent 350 bytes  received 35 bytes  770.00 bytes/sec
+total size is 1,102  speedup is 2.86
+Synced at Sat May 10 10:09:31 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY Template test.md
+sending incremental file list
+Template test.md
+
+sent 361 bytes  received 35 bytes  792.00 bytes/sec
+total size is 1,113  speedup is 2.81
+Synced at Sat May 10 10:09:33 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY Template test.md
+sending incremental file list
+Template test.md
+
+sent 367 bytes  received 35 bytes  804.00 bytes/sec
+total size is 1,119  speedup is 2.78
+Synced at Sat May 10 10:09:35 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY Template test.md
+sending incremental file list
+Template test.md
+
+sent 377 bytes  received 35 bytes  824.00 bytes/sec
+total size is 1,129  speedup is 2.74
+Synced at Sat May 10 10:09:37 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY Template test.md
+sending incremental file list
+Template test.md
+
+sent 383 bytes  received 35 bytes  836.00 bytes/sec
+total size is 1,136  speedup is 2.72
+Synced at Sat May 10 10:09:40 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY Template test.md
+sending incremental file list
+Template test.md
+
+sent 394 bytes  received 35 bytes  858.00 bytes/sec
+total size is 1,146  speedup is 2.67
+Synced at Sat May 10 10:09:42 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY Template test.md
+sending incremental file list
+
+sent 161 bytes  received 12 bytes  346.00 bytes/sec
+total size is 1,154  speedup is 6.67
+Synced at Sat May 10 10:09:44 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY Template test.md
+sending incremental file list
+Template test.md
+
+sent 401 bytes  received 35 bytes  872.00 bytes/sec
+total size is 1,153  speedup is 2.64
+Synced at Sat May 10 10:09:50 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY Template test.md
+sending incremental file list
+Template test.md
+
+sent 400 bytes  received 35 bytes  870.00 bytes/sec
+total size is 1,152  speedup is 2.65
+Synced at Sat May 10 10:09:52 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY Template test.md
+sending incremental file list
+
+sent 161 bytes  received 12 bytes  346.00 bytes/sec
+total size is 1,158  speedup is 6.69
+Synced at Sat May 10 10:10:15 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY Template test.md
+sending incremental file list
+
+sent 161 bytes  received 12 bytes  346.00 bytes/sec
+total size is 1,168  speedup is 6.75
+Synced at Sat May 10 10:10:17 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY Template test.md
+sending incremental file list
+
+sent 161 bytes  received 12 bytes  346.00 bytes/sec
+total size is 1,177  speedup is 6.80
+Synced at Sat May 10 10:10:19 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY Template test.md
+sending incremental file list
+Template test.md
+
+sent 388 bytes  received 35 bytes  846.00 bytes/sec
+total size is 1,140  speedup is 2.70
+Synced at Sat May 10 10:10:26 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY Template test.md
+sending incremental file list
+Template test.md
+
+sent 394 bytes  received 35 bytes  858.00 bytes/sec
+total size is 1,146  speedup is 2.67
+Synced at Sat May 10 10:10:41 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY Template test.md
+sending incremental file list
+
+sent 161 bytes  received 12 bytes  346.00 bytes/sec
+total size is 1,147  speedup is 6.63
+Synced at Sat May 10 10:10:43 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY Template test.md
+sending incremental file list
+deleting .Template test.md.08SBDN
+Template test.md
+
+sent 389 bytes  received 63 bytes  904.00 bytes/sec
+total size is 1,141  speedup is 2.52
+Synced at Sat May 10 10:10:45 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY Template test.md
+sending incremental file list
+
+sent 161 bytes  received 12 bytes  346.00 bytes/sec
+total size is 1,147  speedup is 6.63
+Synced at Sat May 10 10:10:57 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY Template test.md
+sending incremental file list
+Template test.md
+
+sent 389 bytes  received 35 bytes  848.00 bytes/sec
+total size is 1,141  speedup is 2.69
+Synced at Sat May 10 10:10:59 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY Template test.md
+sending incremental file list
+
+sent 161 bytes  received 12 bytes  346.00 bytes/sec
+total size is 1,140  speedup is 6.59
+Synced at Sat May 10 10:11:03 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MOVED_FROM Template test.md
+sending incremental file list
+
+sent 130 bytes  received 12 bytes  284.00 bytes/sec
+total size is 960  speedup is 6.76
+Synced at Sat May 10 10:14:11 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY What will be of this site.md
+sending incremental file list
+
+sent 131 bytes  received 12 bytes  286.00 bytes/sec
+total size is 961  speedup is 6.72
+Synced at Sat May 10 10:41:24 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY What will be of this site.md
+sending incremental file list
+What will be of this site.md
+
+sent 966 bytes  received 35 bytes  2,002.00 bytes/sec
+total size is 989  speedup is 0.99
+Synced at Sat May 10 10:41:28 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY What will be of this site.md
+sending incremental file list
+What will be of this site.md
+_index.md
+
+sent 1,228 bytes  received 54 bytes  2,564.00 bytes/sec
+total size is 1,007  speedup is 0.79
+Synced at Sat May 10 10:44:34 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY What will be of this site.md
+sending incremental file list
+What will be of this site.md
+_index.md
+
+sent 1,199 bytes  received 54 bytes  2,506.00 bytes/sec
+total size is 979  speedup is 0.78
+Synced at Sat May 10 10:45:20 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY What will be of this site.md
+sending incremental file list
+What will be of this site.md
+
+sent 938 bytes  received 35 bytes  1,946.00 bytes/sec
+total size is 961  speedup is 0.99
+Synced at Sat May 10 10:45:23 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY What will be of this site.md
+sending incremental file list
+
+sent 131 bytes  received 12 bytes  286.00 bytes/sec
+total size is 989  speedup is 6.92
+Synced at Sat May 10 10:45:38 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY What will be of this site.md
+sending incremental file list
+What will be of this site.md
+_index.md
+
+sent 1,184 bytes  received 54 bytes  2,476.00 bytes/sec
+total size is 963  speedup is 0.78
+Synced at Sat May 10 10:45:48 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY What will be of this site.md
+sending incremental file list
+What will be of this site.md
+
+sent 959 bytes  received 35 bytes  1,988.00 bytes/sec
+total size is 981  speedup is 0.99
+Synced at Sat May 10 10:47:07 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY What will be of this site.md
+sending incremental file list
+What will be of this site.md
+
+sent 956 bytes  received 35 bytes  1,982.00 bytes/sec
+total size is 978  speedup is 0.99
+Synced at Sat May 10 10:47:12 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY What will be of this site.md
+sending incremental file list
+
+sent 131 bytes  received 12 bytes  286.00 bytes/sec
+total size is 979  speedup is 6.85
+Synced at Sat May 10 10:47:16 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY What will be of this site.md
+sending incremental file list
+What will be of this site.md
+_index.md
+
+sent 1,182 bytes  received 54 bytes  2,472.00 bytes/sec
+total size is 961  speedup is 0.78
+Synced at Sat May 10 10:49:20 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY What will be of this site.md
+sending incremental file list
+What will be of this site.md
+
+sent 957 bytes  received 35 bytes  1,984.00 bytes/sec
+total size is 979  speedup is 0.99
+Synced at Sat May 10 10:49:27 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY What will be of this site.md
+sending incremental file list
+
+sent 131 bytes  received 12 bytes  286.00 bytes/sec
+total size is 961  speedup is 6.72
+Synced at Sat May 10 10:49:41 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY What will be of this site.md
+sending incremental file list
+What will be of this site.md
+
+sent 957 bytes  received 35 bytes  1,984.00 bytes/sec
+total size is 979  speedup is 0.99
+Synced at Sat May 10 10:50:15 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY What will be of this site.md
+sending incremental file list
+
+sent 131 bytes  received 12 bytes  286.00 bytes/sec
+total size is 960  speedup is 6.71
+Synced at Sat May 10 10:50:43 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY What will be of this site.md
+sending incremental file list
+
+sent 131 bytes  received 12 bytes  286.00 bytes/sec
+total size is 961  speedup is 6.72
+Synced at Sat May 10 10:55:18 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY What will be of this site.md
+sending incremental file list
+
+sent 131 bytes  received 12 bytes  286.00 bytes/sec
+total size is 200  speedup is 1.40
+Synced at Sat May 10 10:55:36 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY What will be of this site.md
+sending incremental file list
+
+sent 131 bytes  received 12 bytes  286.00 bytes/sec
+total size is 979  speedup is 6.85
+Synced at Sat May 10 10:55:36 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY What will be of this site.md
+sending incremental file list
+What will be of this site.md
+
+sent 938 bytes  received 35 bytes  1,946.00 bytes/sec
+total size is 961  speedup is 0.99
+Synced at Sat May 10 10:56:31 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY What will be of this site.md
+sending incremental file list
+What will be of this site.md
+
+sent 174 bytes  received 35 bytes  418.00 bytes/sec
+total size is 200  speedup is 0.96
+Synced at Sat May 10 10:59:24 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY What will be of this site.md
+sending incremental file list
+
+sent 131 bytes  received 12 bytes  286.00 bytes/sec
+total size is 961  speedup is 6.72
+Synced at Sat May 10 11:01:10 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY What will be of this site.md
+sending incremental file list
+What will be of this site.md
+
+sent 959 bytes  received 35 bytes  1,988.00 bytes/sec
+total size is 981  speedup is 0.99
+Synced at Sat May 10 11:06:54 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY What will be of this site.md
+sending incremental file list
+
+sent 131 bytes  received 12 bytes  286.00 bytes/sec
+total size is 961  speedup is 6.72
+Synced at Sat May 10 11:07:57 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY What will be of this site.md
+sending incremental file list
+What will be of this site.md
+
+sent 974 bytes  received 35 bytes  2,018.00 bytes/sec
+total size is 996  speedup is 0.99
+Synced at Sat May 10 11:08:16 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/superibm/Obsidian/Public Posts WEBSITE/ MODIFY What will be of this site.md
+sending incremental file list
+
+sent 131 bytes  received 12 bytes  286.00 bytes/sec
+total size is 961  speedup is 6.72
+Synced at Sat May 10 11:08:45 PM CDT 2025
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.

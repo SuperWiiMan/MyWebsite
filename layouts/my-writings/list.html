@@ -1,0 +1,39 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  <p>{{ .Content }}</p>
+
+  <h2>Recent Writings</h2>
+
+  <ul>
+    {{ range .Paginator.Pages }}
+      <li>
+        <a href="{{ .Permalink }}" class="text-blue-500 hover:underline">{{ .Title }}</a><br>
+        Published: {{ .Date.Format "Jan 02, 2006" }} <br>
+        Last Updated: {{ .Lastmod.Format "Jan 02, 2006" }}
+      </li>
+    {{ end }}
+  </ul>
+
+  <div class="pagination flex justify-between items-center mt-4">
+    {{ if .Paginator.HasPrev }}
+      <a href="{{ .Paginator.Prev.URL }}" class="px-4 py-2 bg-gray-800 text-white rounded hover:bg-gray-600">
+        ← Previous
+      </a>
+    {{ else }}
+      <span class="px-4 py-2 bg-gray-300 text-gray-500 rounded">← Previous</span>
+    {{ end }}
+
+    <span class="text-gray-700">
+      Page {{ .Paginator.PageNumber }} of {{ .Paginator.TotalPages }}
+    </span>
+
+    {{ if .Paginator.HasNext }}
+      <a href="{{ .Paginator.Next.URL }}" class="px-4 py-2 bg-gray-800 text-white rounded hover:bg-gray-600">
+        Next →
+      </a>
+    {{ else }}
+      <span class="px-4 py-2 bg-gray-300 text-gray-500 rounded">Next →</span>
+    {{ end }}
+  </div>
+
+{{ end }}
