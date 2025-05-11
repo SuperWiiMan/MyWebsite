@@ -1,19 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>My Writings on SuperIBM Website</title>
-    <link>http://localhost:1313/my-writings/</link>
-    <description>Recent content in My Writings on SuperIBM Website</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 10 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/my-writings/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/my-writings/what-will-be-of-this-site/</link>
-      <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/my-writings/what-will-be-of-this-site/</guid>
-      <description>&lt;p&gt;This is the content of my first post.&lt;/p&gt;&#xA;&lt;p&gt;I do not know how to put this but first post on my blog.&#xA;This site is made with HUGO&lt;/p&gt;&#xA;&lt;p&gt;This site will be to talk about my interests including but not limited to:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Arch Linux (On Arch BTW)&lt;/li&gt;&#xA;&lt;li&gt;Video games: Nintendo franchises, Forza, Fortnite, No Mans Sky, Minecraft, and more.&lt;/li&gt;&#xA;&lt;li&gt;Homebrew/Hardware mods to anything.&lt;/li&gt;&#xA;&lt;li&gt;Soldering (Electronics possibly jewelry later)&lt;/li&gt;&#xA;&lt;li&gt;ThinkPad (Mostly about my T480 for now)&lt;/li&gt;&#xA;&lt;li&gt;Random tech stuff I like and/or find interesting&lt;/li&gt;&#xA;&lt;li&gt;Tech minimalism/protecting privacy&lt;/li&gt;&#xA;&lt;li&gt;Expect random stuff occasionally&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I will try to post at least 5 times a week give or take because life:)&#xA;This website will observe April fools you have been warned;)&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My Writings on SuperIBM Website</title><link>https://superwiiman.github.io/my-writings/</link><description>Recent content in My Writings on SuperIBM Website</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 10 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://superwiiman.github.io/my-writings/index.xml" rel="self" type="application/rss+xml"/><item><title>My First Post</title><link>https://superwiiman.github.io/my-writings/what-will-be-of-this-site/</link><pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate><guid>https://superwiiman.github.io/my-writings/what-will-be-of-this-site/</guid><description>&lt;p>This is the content of my first post.&lt;/p>
+&lt;p>I do not know how to put this but first post on my blog.
+This site is made with HUGO&lt;/p>
+&lt;p>This site will be to talk about my interests including but not limited to:&lt;/p>
+&lt;ul>
+&lt;li>Arch Linux (On Arch BTW)&lt;/li>
+&lt;li>Video games: Nintendo franchises, Forza, Fortnite, No Mans Sky, Minecraft, and more.&lt;/li>
+&lt;li>Homebrew/Hardware mods to anything.&lt;/li>
+&lt;li>Soldering (Electronics possibly jewelry later)&lt;/li>
+&lt;li>ThinkPad (Mostly about my T480 for now)&lt;/li>
+&lt;li>Random tech stuff I like and/or find interesting&lt;/li>
+&lt;li>Tech minimalism/protecting privacy&lt;/li>
+&lt;li>Expect random stuff occasionally&lt;/li>
+&lt;/ul>
+&lt;p>I will try to post at least 5 times a week give or take because life:)
+This website will observe April fools you have been warned;)&lt;/p></description></item></channel></rss>
