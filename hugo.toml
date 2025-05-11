@@ -33,7 +33,7 @@ description = ""
 # * Academicons <https://jpswalsh.github.io/academicons> ('ai ai-')
 [[params.socialLinks]]
 icon = "fa-solid fa-envelope"
-title = "Email"
+title = "Email Here"
 url = "superibmfanbox@gmail.com"
 
 [[params.socialLinks]]
